@@ -1,0 +1,11 @@
+D:\Development\VS2019\Attendance Monitoring System\Mimobibo\bin\Debug\Mimobibo.dll
+D:\Development\VS2019\Attendance Monitoring System\Mimobibo\bin\Debug\Mimobibo.pdb
+D:\Development\VS2019\Attendance Monitoring System\Mimobibo\obj\Debug\Mimobibo.csproj.CoreCompileInputs.cache
+D:\Development\VS2019\Attendance Monitoring System\Mimobibo\obj\Debug\Mimobibo.dll
+D:\Development\VS2019\Attendance Monitoring System\Mimobibo\obj\Debug\Mimobibo.pdb
+F:\Attendance Monitoring System\Mimobibo\bin\Debug\Mimobibo.dll
+F:\Attendance Monitoring System\Mimobibo\bin\Debug\Mimobibo.pdb
+F:\Attendance Monitoring System\Mimobibo\obj\Debug\Mimobibo.csproj.AssemblyReference.cache
+F:\Attendance Monitoring System\Mimobibo\obj\Debug\Mimobibo.csproj.CoreCompileInputs.cache
+F:\Attendance Monitoring System\Mimobibo\obj\Debug\Mimobibo.dll
+F:\Attendance Monitoring System\Mimobibo\obj\Debug\Mimobibo.pdb
